@@ -1,5 +1,5 @@
 import unittest
-import two_unittest as two
+import two
 
 
 class Unitest(unittest.TestCase):
